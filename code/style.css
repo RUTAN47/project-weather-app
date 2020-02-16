@@ -1,0 +1,16 @@
+
+.numbers{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+h1{
+  
+}
+
+p{
+  border: 2px solid green;
+  width: 100px;
+  height: 100px;
+  margin: 40px;
+}
